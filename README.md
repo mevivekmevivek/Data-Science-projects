@@ -4,3 +4,9 @@ The repository consists of the different data science projects worked over the c
 -------------------------------
 The project is undertaken for practicse on the nltk library and working with text.
 For the project, I have used the kaggle spam sms classification data.
+TfidfVectorizer
+CounterVectorizer
+Tokenization
+Lemmatization
+Stemming
+Multinomial Naives Bayes
