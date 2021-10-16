@@ -32,3 +32,11 @@ Checking for correlation between the variables
 Feature Engineering
 Linear regression model
 Random Forest model
+
+----------------------------------------------------------------------
+3) Recruit Restaurant Visitor Forecasting
+ 
+ Please go through the below files for details on the implmentation
+ 1) Recruit Restaurant Visitor Report.
+ 2) Recruit Restaurant Visitor presentation 
+ 3) Recruit Restaurant Visitor forecast.py.
